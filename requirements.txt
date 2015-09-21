@@ -1,4 +1,4 @@
-pbr>=0.6,!=0.7,<1.0
+pbr<2.0,>=1.6
 
 # latest neutronclient
 -e git+https://github.com/openstack/python-neutronclient.git@2b3cf686d6451cfcd9d3fccee2a428751f1cee4a#egg=python-neutronclient
